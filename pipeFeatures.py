@@ -168,9 +168,9 @@ class Flange(pypeType):
     f (float): bolts holes diameter
     t (float): flange thickness
     n (int): nr. of bolts
-    trf (float): raised-face thikness
+    trf (float): raised-face thickness
     drf (float): raised-face diameter
-    twn (float): welding-neck thikness
+    twn (float): welding-neck thickness
     dwn (float): welding-neck diameter
     ODp (float): outside diameter of pipe for wn flanges
   '''
